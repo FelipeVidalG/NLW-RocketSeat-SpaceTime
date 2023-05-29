@@ -1,17 +1,10 @@
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD041 -->
 
-<div align="center">
-  <img alt="NLW Copa" src=".github/assets/nlw-spacetime-logo.svg" width="30%"/>
-</div>
 <br>
 <div align="center">
-  <a href="https://github.com/mgckaled">
-    <img alt="Made by mgckaled" src="https://img.shields.io/badge/made%20by-mgckaled-yellow">
+  <a href="https://github.com/FelipeVidalG">
   </a>
-  <img alt="GitHub Repo Size" src="https://img.shields.io/github/repo-size/mgckaled/nlw12-spacetime">
-  <img alt="GitHub Language Count" src="https://img.shields.io/github/languages/count/mgckaled/nlw12-spacetime">
-  <img alt="license" src="https://img.shields.io/github/license/mgckaled/nlw12-spacetime">
 </div>
 <br>
 <div align="center">
@@ -41,9 +34,6 @@
 
 </div>
 
-<p align="center">
-  <img src=".github/assets/preview.png" width="90%">
-</p>
 
 ## Sobre o Projeto
 
@@ -131,12 +121,7 @@ Criar conta e configurar os serviços externos:
 
 ```bash
 # Execute o comando git clone para realizar o clone do repositório
-$ git clone https://github.com/mgkclaed/nlw12-spacetime.git
-# ou execute (necessário instalar Github CLI - https://cli.github.com/)
-$ gh repo clone mgckaled/nlw12-spacetime
-# Entre na pasta do repositório clonado
-$ cd nlw12-spacetime
-```
+$ git clone https://github.com/FelipeVidalG/NLW-RocketSeat-SpaceTime.git
 
 ### Comandos importantes
 
@@ -192,4 +177,4 @@ Esse projeto está registrado sob a licença MIT.
 
 ---
 
-Feito com ❤️ by Marcel Kaled
+Feito com ❤️ by Felipe Vidal
